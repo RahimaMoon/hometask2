@@ -351,3 +351,8 @@ input{
     padding:20px;
     margin-top: 50px;
 }
+.cr{
+    display: flex;
+    gap:80px;
+    margin-top: 90px;;
+}
